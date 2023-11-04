@@ -19,3 +19,5 @@ Design Issues:
 While not the best or most robust design, this project served as an oppurtunity to give an intro to pcb design fundamentals and embedded hardware
 
 Schematic:
+![image](https://github.com/ywf1/atmega32u4_devboard/assets/115194344/67a8c295-5561-4f9e-bac2-6b27995fcfa4)
+
